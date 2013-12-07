@@ -1,7 +1,7 @@
 Summary:	Support files for bmake, the NetBSD make(1) tool
 Name:		mk-files
 Version:	20130401
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Other
 Url:		ftp://ftp.NetBSD.org/pub/NetBSD/misc/sjg/
